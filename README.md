@@ -35,11 +35,11 @@
 
 [twitter]: https://twitter.com/cjohnguipo
 [youtube]: https://www.youtube.com/c/cjohnguipo
-[instagram]: https://www.instagram.com/cjohnguipo/
+[instagram]: https://www.instagram.com/christianjohnguipo/
 [linkedin]: https://linkedin.com/in/cjohnguipo
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cjohnguipo/cjohnguipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
