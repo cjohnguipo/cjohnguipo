@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>ASP.Net Core 6 ShopOnline</b>
-  - [Experiencing Blazor WebAssembly](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
+- <b>ASP.Net Core 6</b>
+  - [Experiencing Blazor WASM - ShopOnline](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
 - <b>C# (.NET Desktop Applications)</b>
   - [Bulk-SMS Promotional Purpose](https://github.com/cjohnguipo/)
 - <b>ReactJs</b>
