@@ -2,7 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
+- <b>ASP.Net Core 6 ShopOnline</b>
+  - [Familiarizing Blazor WebAssembly](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Bulk-SMS Promotional Purpose)](https://github.com/cjohnguipo/#)
+- <b>ReactJs</b>
+  - [Practicing and Familiarizing ReactJS)](https://github.com/cjohnguipo/#)
 
 <h2>📺 Popular YouTube Videos</h2>
 
