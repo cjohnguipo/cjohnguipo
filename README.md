@@ -6,9 +6,7 @@
   - [Experiencing Blazor WASM - ShopOnline](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
 
 - <b>WordPress Theme and Plugin</b>  
-  
 - <b>ReactJs</b>
-  - [ReactJS Portfolio App](https://github.com/cjohnguipo/react-portfolio-app)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Bulk-SMS for Promotional Purpose](https://github.com/cjohnguipo/)
