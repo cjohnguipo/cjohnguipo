@@ -3,8 +3,11 @@
 <h2>👨‍💻Full Stack Web Development Experiences:</h2>
 
 - <b>ReactJs</b>  
-- <b>NextJs</b> 
-- <b>Expo React Native</b>
+- <b>NextJs</b>
+   <p>Human Resource Web App</p>
+   
+- <b>Expo React Native with mssql backend</b>
+  <p>Wallet App</p>
 
 - <b>ASP.Net Core 6</b>
   - [Experiencing Blazor WASM - ShopOnline](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
