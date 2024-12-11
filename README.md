@@ -1,15 +1,18 @@
 <h1>Hi, I'm Christian</h1>
 
-<h2>👨‍💻 Web Development Experiences:</h2>
+<h2>👨‍💻Full Stack Web Development Experiences:</h2>
+
+- <b>ReactJs</b>  
+- <b>NextJs</b> 
+- <b>Expo React Native</b>
 
 - <b>ASP.Net Core 6</b>
   - [Experiencing Blazor WASM - ShopOnline](https://github.com/cjohnguipo/ASP.NET-Core-6-WebAPI-BlazorClient-ShopOnline)
 
 - <b>WordPress Theme and Plugin</b>  
-- <b>ReactJs</b>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Bulk-SMS for Promotional Purpose](https://github.com/cjohnguipo/)
+  - [SMS App for Promotional Purpose]
 
 
 <h2> 🤳 Connect with me:</h2>
