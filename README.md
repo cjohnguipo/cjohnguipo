@@ -34,23 +34,11 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web and
 - **C# (.NET)**  
   - Creating powerful desktop apps.
   - Example: SMS App for Promotional Purpose.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating and sharing knowledge. Feel free to reach out through any of the platforms below:
-
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/cjohnguipo)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/cjohnguipo)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/cjohnguipo)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/christianjohnguipo/)
-
----
+ 
+ 
 
 ### 📫 How to Reach Me:
-- **Email**: christian.johnguipo@gmail.com (Add your email here, if you'd like)
-- **LinkedIn**: [linkedin.com/in/cjohnguipo](https://linkedin.com/in/cjohnguipo)
+- **Email**: christian.johnguipo@gmail.com (Add your email here, if you'd like) 
 
 ---
 
