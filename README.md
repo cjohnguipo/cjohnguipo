@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian
 
-## 🌟 Full Stack Web Developer | Mobile App Developer | ASP.NET Enthusiast
+## 🌟 Full Stack Web Developer | Mobile App Developer with React Native (Frontend) | NodeJs + ExpressJs + MSSQL (Backend) 
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in web and mobile applications. I love building robust solutions with cutting-edge technologies.
 
